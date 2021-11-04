@@ -17,6 +17,6 @@ Endpoint: /user
 {
     "name": "Paul",
     "surname": "Jideani",
-    "currentAge": 31,
+    "currentAge": 29,
     "dateOfBirth": null
 }
