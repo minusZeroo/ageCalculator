@@ -2,6 +2,7 @@
 An API takes in a request body as below
 
 Endpoint: /user
+Method: POST
 
 >Sample payload/request:
 ```JSON
