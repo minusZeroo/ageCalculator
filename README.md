@@ -8,8 +8,8 @@ Method: POST
 >Sample payload/request:
 ```JSON
 {
-   "name": "Paul",
-    "surname": "Jideani",
+   "name": "Rehema",
+    "surname": "Jordan",
     "dateOfBirth": "1992-07-07"
 }
 ```
@@ -17,8 +17,8 @@ Method: POST
 >Output:
 ```JSON
 {
-    "name": "Paul",
-    "surname": "Jideani",
+    "name": "Rehema",
+    "surname": "Jordan",
     "currentAge": 29,
     "dateOfBirth": null
 }
