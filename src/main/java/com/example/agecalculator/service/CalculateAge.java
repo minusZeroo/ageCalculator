@@ -12,9 +12,9 @@ public class CalculateAge {
     public int getAge(Date dateOfBirth){
 
         Date date = dateOfBirth;
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyy");
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
-        if (date ==null) return 0;
+        if (date == null) return 0;
 
         Calendar dob = Calendar.getInstance();
         Calendar today = Calendar.getInstance();

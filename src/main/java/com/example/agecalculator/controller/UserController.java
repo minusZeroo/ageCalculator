@@ -15,10 +15,11 @@ public class UserController {
     @PostMapping("/user")
     public User create(@RequestBody User user){
         User input = new User();
+
         input.setName(user.getName());
         input.setSurname(user.getSurname());
         input.setCurrentAge(calculateAge.getAge(user.getDateOfBirth()));
-        System.out.println("commiting");
+        System.out.println("sending.......");
         return input;
     }
 
