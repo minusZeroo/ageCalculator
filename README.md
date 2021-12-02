@@ -24,3 +24,5 @@ Method: POST
 }
 ```
 >>See link to web consumption: 
+Consumption of API link: (Run on seperate instances)
+
