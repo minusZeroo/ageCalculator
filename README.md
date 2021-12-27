@@ -1,4 +1,4 @@
-# Age Calculator API
+# Age calculator API
 An API takes in a request body as below
 
 Endpoint: /user
@@ -23,6 +23,6 @@ Method: POST
     "dateOfBirth": null
 }
 ```
->>See link to web consumption: 
+>See link to web consumption: 
 Consumption of API link: (Run on seperate instances)
 
