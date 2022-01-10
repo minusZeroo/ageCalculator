@@ -1,5 +1,5 @@
 # Age calculator API
-An API takes in a request body as below
+An API with request body as below
 
 Endpoint: /user
 
